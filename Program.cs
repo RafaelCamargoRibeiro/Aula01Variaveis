@@ -11,7 +11,42 @@ namespace Aula01Variavel
             // ConcatenatPalavras();//mostrar o meu programa para roda-lo
             //CalcularMédia();
             //CalcularTabuada();
-            VerificaraulaEtec();
+            //VerificaraulaEtec();
+            Console.WriteLine("Observe o menui abaixo e digite o numero referente a opçaodesejada");
+            Console.WriteLine("1 - Concatenar Palavras");
+            Console.WriteLine("2 - Verificar dia da semana");
+            Console.WriteLine("3 - Calcular Média");
+            Console.WriteLine("4 - Calcular Tabuada");
+
+            int opcaoEscolhida = int.Parse(Console.ReadLine());
+
+            switch (opcaoEscolhida)
+            {
+                case 1:
+                ConcatenatPalavras();
+                break;
+
+                 case 2:
+                VerificaraulaEtec();
+                break;
+
+                 case 3:
+                CalcularMédia();
+                break;
+
+                 case 4:
+                CalcularTabuada();
+                break;
+                default:
+                Console.WriteLine("Opção inválida");
+                break;
+
+                 
+
+
+
+            }
+            
         }
 
         public static void CalcularTabuada()

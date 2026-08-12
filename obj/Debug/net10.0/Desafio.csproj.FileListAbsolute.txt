@@ -26,3 +26,18 @@ E:\2° MÓDULO\DS2\Aula01\Projetos\obj\Debug\net10.0\refint\Desafio.dll
 E:\2° MÓDULO\DS2\Aula01\Projetos\obj\Debug\net10.0\Desafio.pdb
 E:\2° MÓDULO\DS2\Aula01\Projetos\obj\Debug\net10.0\Desafio.genruntimeconfig.cache
 E:\2° MÓDULO\DS2\Aula01\Projetos\obj\Debug\net10.0\ref\Desafio.dll
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\bin\Debug\net10.0\Desafio.exe
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\bin\Debug\net10.0\Desafio.deps.json
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\bin\Debug\net10.0\Desafio.runtimeconfig.json
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\bin\Debug\net10.0\Desafio.dll
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\bin\Debug\net10.0\Desafio.pdb
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\Desafio.AssemblyInfoInputs.cache
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\Desafio.AssemblyInfo.cs
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\Desafio.csproj.CoreCompileInputs.cache
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\Desafio.sourcelink.json
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\Desafio.dll
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\refint\Desafio.dll
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\Desafio.pdb
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\Desafio.genruntimeconfig.cache
+D:\Rafael Ribeiro\2° MÓDULO\DS2\Aula3\Aula1Variaveis\obj\Debug\net10.0\ref\Desafio.dll
