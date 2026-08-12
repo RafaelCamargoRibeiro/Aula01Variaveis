@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rafael Ribeiro\\DS2\\Aula01\\Projetos\\Desafio.csproj",
+      "projectUniqueName": "D:\\Rafael Ribeiro\\2° MÓDULO\\DS2\\Aula3\\Aula1Variaveis\\Desafio.csproj",
       "projectName": "Desafio",
-      "projectPath": "D:\\Rafael Ribeiro\\DS2\\Aula01\\Projetos\\Desafio.csproj",
+      "projectPath": "D:\\Rafael Ribeiro\\2° MÓDULO\\DS2\\Aula3\\Aula1Variaveis\\Desafio.csproj",
       "packagesPath": "D:\\NugetPackages",
-      "outputPath": "D:\\Rafael Ribeiro\\DS2\\Aula01\\Projetos\\obj\\",
+      "outputPath": "D:\\Rafael Ribeiro\\2° MÓDULO\\DS2\\Aula3\\Aula1Variaveis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
