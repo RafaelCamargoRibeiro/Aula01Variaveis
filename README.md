@@ -8,9 +8,9 @@
 
 **Nome:** **Rafael Camargo Ribeiro**
 
-**Matéria:** ##DSII##
+**Matéria:** DSII
 
-**Data:** ##__12_ / __08__ / ___2026___##
+**Data:** __12_ / __08__ / ___2026___
 
 ---
 
